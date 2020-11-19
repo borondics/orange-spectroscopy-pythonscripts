@@ -1,1 +1,1 @@
-# orange-spectorscopy-pythonscripts
+# orange-spectroscopy-pythonscripts
